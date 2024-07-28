@@ -1,7 +1,7 @@
 
 # 什么是yolo?能用来做什么？
 
-yolo是一套成熟的开源的深度学习框架，可以实现目标检测、分割、姿态估计、跟踪和分类等功能。
+yolo是一套成熟的开源的深度学习框架，可以实现目标检测、分割、姿态估计、跟踪和分类等功能。官网地址：https://docs.ultralytics.com/ ，github地址：https://github.com/ultralytics/yolov5/tree/v7.0
 # 相关技术准备
 ## 1.运行环境准备
 ### 1.1本地搭建
