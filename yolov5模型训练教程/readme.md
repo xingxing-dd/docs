@@ -25,7 +25,7 @@ conda create --name dnf python=3.8
 conda activate dnf
 ```
 ### 1.2使用云服务
-推荐没有本地硬件环境的小伙伴使用deepln：https://www.deepln.com/ ，可直接使用，而且非常便宜。
+推荐没有本地硬件环境的小伙伴使用deepln：[https://www.deepln.com/](https://funhpc.com/#/user/regist?Code=ZnVuLWhwY7u-hF30KMxsDhDUKy89OsRU_biHphWCDfmCiQ2ESSm0) ，可直接使用，而且非常便宜。
 
 ### 1.3安装pytorch
 
